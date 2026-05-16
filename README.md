@@ -18,11 +18,11 @@
 
 ```bash
 $ whoami
-> security researcher & web developer
+> security student & web developer
 ```
 
-I break things to understand how they work — then build them better.  
-Focused on web security, offensive research, and building tools that matter.
+Learning break things to understand how they work - then build them better.  
+Focused on web security and offensive research.
 
 ---
 
