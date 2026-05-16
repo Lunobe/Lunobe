@@ -22,6 +22,7 @@ $ whoami
 ```
 
 Learning to break things to understand how they work, then building them better.
+
 Focused on web security and offensive research.
 
 ---
